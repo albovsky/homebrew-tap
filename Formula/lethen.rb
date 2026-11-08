@@ -1,9 +1,9 @@
 class Lethen < Formula
   desc "Identify unused code in Swift projects"
   homepage "https://github.com/albovsky/lethen"
-  url "https://github.com/albovsky/lethen/releases/download/2026.10.1/lethen-2026.10.1-macos-arm64.zip"
-  version "2026.10.1"
-  sha256 "44ea41c2075d07226d94496044257950c5034fae423b6423db63b299df47d118"
+  url "https://github.com/albovsky/lethen/releases/download/2026.11.1/lethen-2026.11.1-macos-arm64.zip"
+  version "2026.11.1"
+  sha256 "8dadaafb5766b9c3d297681e3e6b26b9dd974357855e4e9188e0c22d5381bf88"
   license "MIT"
 
   depends_on arch: :arm64
